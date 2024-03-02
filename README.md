@@ -1,9 +1,6 @@
-# <b>HOME</b>
-<br>
-<br>
 ![home](https://github.com/atsszc/react-netflix-clone/assets/116086493/bfc9fa94-1560-43f3-a8cb-d4786cbba634)
 
-
+# HOME
 
 ![home 1](https://github.com/atsszc/react-netflix-clone/assets/116086493/e8b3fa1b-1330-4276-abdc-15fabe4b1f06)
 
